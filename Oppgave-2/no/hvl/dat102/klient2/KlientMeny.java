@@ -1,4 +1,4 @@
-package no.hvl.dat102.mengde.klient2;
+package no.hvl.dat102.klient2;
 
 import no.hvl.dat102.meny.*;
 import no.hvl.dat102.datakontaktfirma.*;
